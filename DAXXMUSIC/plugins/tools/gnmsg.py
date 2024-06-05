@@ -31,7 +31,7 @@ def get_random_sticker():
 
 def get_random_emoji():
     emojis = [
-        "😴",
+        "🥱",
         "😪",
         "💤",
     ]
