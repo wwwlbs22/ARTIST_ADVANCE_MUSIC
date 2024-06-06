@@ -1,7 +1,7 @@
 {
-    "name": "𝙳𝙰𝚇𝚇 𝙼𝚄𝚂𝙸𝙲",
+    "name": "𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/dbb3222d0fd3712e2a0e4.jpg",
+    "logo": "https://telegra.ph/file/81b0c59e3b222bcc2a435.jpg",
     "keywords": [
     "python3",
     "telegram",
