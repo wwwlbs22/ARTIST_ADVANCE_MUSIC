@@ -202,8 +202,9 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 **𝐈𝐃 »** `{user.id}`
 **𝐔_𝐍𝐀𝐌𝐄 »** @{user.username}
 **𝐓𝐎𝐓𝐀𝐋 𝐌𝐄𝐌𝐌𝐁𝐄𝐑𝐒 »** {count}
-▰▰▰▰▰▰▰▰▰▰▰▰▰
 **@ARTIST_i_NETWORK**
+▰▰▰▰▰▰▰▰▰▰▰▰▰
+
 **❅─────✧❅✦❅✧─────❅**
 """,
                 reply_markup=InlineKeyboardMarkup([
